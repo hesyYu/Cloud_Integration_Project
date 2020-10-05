@@ -8,27 +8,27 @@
 
                     [www.softwareag.cloud](http://www.softwareag.cloud) 접속 - Products - [webMethods.io](http://webmethods.io) Integration - 오른쪽 상단에 Try for free 클릭
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_00-50-23.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_00-50-23.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_00-50-23.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_00-50-23.png)
 
                 2. 빈칸 다 채워주고 세개 다 체크
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_00-56-18.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_00-56-18.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_00-56-18.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_00-56-18.png)
 
                 3. 가입할 때 작성했던 Environment name을 입력
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-00-26.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-00-26.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-00-26.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-00-26.png)
 
                 4. 가입할 때 작성했던 Username과 Password 입력
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-01-31.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-01-31.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-01-31.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-01-31.png)
 
                 5. [webMethods.io](http://webmethods.io) Integration 오픈
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-01-59.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-01-59.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-01-59.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-01-59.png)
 
                 6. 대시보드가 나타난다
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-04-41.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-10_01-04-41.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-04-41.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-10_01-04-41.png)
 
         - 5강 - Types of Actions
             - TABLE OF CONTENTS
@@ -69,7 +69,7 @@
 
                     Projects > Configurations > Workflow > Parameter
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_10-09-26.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_10-09-26.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_10-09-26.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_10-09-26.png)
 
                     - **Name** : 프로젝트 매개 변수에 적합한 이름을 제공.
                     - **Value** : 프로젝트 매개 변수의 값을 제공.
@@ -82,9 +82,9 @@
 
                 - Workflow Page
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_10-29-01.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_10-29-01.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_10-29-01.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_10-29-01.png)
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_10-29-27.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_10-29-27.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_10-29-27.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_10-29-27.png)
 
             - Editing a Parameter
 
@@ -92,9 +92,9 @@
 
                 Edit Parameter 버튼 클릭
 
-                ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-06-35.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-06-35.png)
+                ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-06-35.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-06-35.png)
 
-                ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-06-52.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-06-52.png)
+                ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-06-52.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-06-52.png)
 
             - Deleting a Parameter
 
@@ -102,13 +102,13 @@
 
                 Delete 버튼 클릭
 
-                ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-06-35%201.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-06-35%201.png)
+                ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-06-35%201.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-06-35%201.png)
 
-                ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-18-35.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-18-35.png)
+                ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-18-35.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-18-35.png)
 
             - Using a Parameter
 
-                ![SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-12-32.png](SOFTWARE_AG_Youtube_Summary_KHS/Screenshot_from_2020-08-25_11-12-32.png)
+                ![SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-12-32.png](SOFTWARE AG Youtube Summary_KHS/Screenshot_from_2020-08-25_11-12-32.png)
 
                 - 값을 반복적으로 입력하는 대신 기존 매개 변수를 사용하여 시간을 절약한다.
                 - 워크 플로우에서 매개 변수를 사용할 때 [webMethods.io](http://webmethods.io/) 통합은 해당 매개 변수의 값을 사용할 수 있는지 확인한다. 값을 사용할 수없는 경우 워크 플로가 실행되지 않는다.
@@ -123,17 +123,17 @@
                 - 워크 플로는 지정된 조건이 충족되는 경우에만 진행된다.
                 - 테스트 트리거 창의 출력 화면에서 필터 창에 액세스한다.
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Untitled.png](SOFTWARE_AG_Youtube_Summary_KHS/Untitled.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Untitled.png](SOFTWARE AG Youtube Summary_KHS/Untitled.png)
 
             - How to set up and use Filters?
                 - Workflow : 제목에 'Support Request'라는 단어가 포함 된 Evernote의 새 노트에 대한 이메일 알림을받습니다.
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Untitled%201.png](SOFTWARE_AG_Youtube_Summary_KHS/Untitled%201.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Untitled%201.png](SOFTWARE AG Youtube Summary_KHS/Untitled%201.png)
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Untitled%202.png](SOFTWARE_AG_Youtube_Summary_KHS/Untitled%202.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Untitled%202.png](SOFTWARE AG Youtube Summary_KHS/Untitled%202.png)
 
-                    ![SOFTWARE_AG_Youtube_Summary_KHS/Untitled%203.png](SOFTWARE_AG_Youtube_Summary_KHS/Untitled%203.png)
+                    ![SOFTWARE AG Youtube Summary_KHS/Untitled%203.png](SOFTWARE AG Youtube Summary_KHS/Untitled%203.png)
 
             - Filters vs. Conditions
 
-                ![SOFTWARE_AG_Youtube_Summary_KHS/Untitled%204.png](SOFTWARE_AG_Youtube_Summary_KHS/Untitled%204.png)
+                ![SOFTWARE AG Youtube Summary_KHS/Untitled%204.png](SOFTWARE AG Youtube Summary_KHS/Untitled%204.png)
