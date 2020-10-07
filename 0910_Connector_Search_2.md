@@ -6,8 +6,6 @@
 
             ![0910_Connector_Search_2/Untitled.png](0910_Connector_Search_2/Untitled.png)
 
-            ![0910_Connector_Search_2/Untitled.png](0910_Connector_Search_2/Untitled.png)
-
             Siteleaf는 사용자가 웹 사이트를 작성, 편집 및 유지할 수있는 온라인 컨텐츠 관리 시스템입니다.
 
         - Triggers
@@ -74,8 +72,6 @@
 
             ![0910_Connector_Search_2/Untitled%206.png](0910_Connector_Search_2/Untitled%206.png)
 
-            ![0910_Connector_Search_2/Untitled%206.png](0910_Connector_Search_2/Untitled%206.png)
-
             JotForm은 사용자가 양식을 게시하고 응답을받을 수 있도록 도와주는 온라인 양식 작성 도구입니다.
 
         - Triggers
@@ -107,8 +103,6 @@
 
     - Webflow
         - Webfolw 란?
-
-            ![0910_Connector_Search_2/Untitled%207.png](0910_Connector_Search_2/Untitled%207.png)
 
             ![0910_Connector_Search_2/Untitled%207.png](0910_Connector_Search_2/Untitled%207.png)
 
@@ -150,9 +144,6 @@
         - Toodledo 란?
 
             ![0910_Connector_Search_2/Untitled%208.png](0910_Connector_Search_2/Untitled%208.png)
-
-            ![0910_Connector_Search_2/Untitled%208.png](0910_Connector_Search_2/Untitled%208.png)
-
 
             Toodledo는 모든 작업, 메모, 파일 및 폴더를 한 곳에 저장할 수있는 온라인 프로젝트 관리 도구입니다.
 
@@ -209,9 +200,6 @@
         - Tesla 란?
 
             ![0910_Connector_Search_2/Untitled%209.png](0910_Connector_Search_2/Untitled%209.png)
-
-            ![0910_Connector_Search_2/Untitled%209.png](0910_Connector_Search_2/Untitled%209.png)
-
 
             테슬라는 전기자동차, 자동차 소프트웨어, 그리고 에너지 저장장치를 제조하는 미국의 기업
 
