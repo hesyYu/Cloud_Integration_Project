@@ -33,6 +33,7 @@ def on_message(client, userdata, message):
         time.sleep(1)
         publish("s/us", "503,c8y_Restart");
         print("...done...")
+        
 # send temperature measurement
 def sendMeasurements():
     try:
